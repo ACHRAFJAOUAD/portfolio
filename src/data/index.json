@@ -1,0 +1,54 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Expertise in creating dynamic and responsive user interfaces using HTML5, CSS3, and JavaScript. Proficient in modern front-end frameworks such as React, Angular, and Vue.js."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Skilled in developing robust server-side applications using Node.js,Firebase Python, and PHP. Experience with frameworks like Express.js, Django, and Laravel, and managing databases such as MySQL, MongoDB, and PostgreSQL."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Proficient in designing user-friendly and visually appealing interfaces. Knowledgeable in user experience principles to ensure intuitive and effective user interactions. Skilled with design tools such as Adobe XD and Figma."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Mobile App Development",
+      "description": "Experienced in developing cross-platform mobile applications using Flutter. Capable of building high-performance and visually appealing apps for both Android and iOS platforms."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/project1.png",
+      "title": "Gestion Notes",
+      "description": "SiteWeb about managing the school's notes of students & teachers",
+      "link": "View In Github",
+      "github": "https://github.com/ACHRAFJAOUAD/GESTION_NOTES"
+    },
+    {
+      "id": "2",
+      "src": "./img/project2.png",
+      "title": "Mornito",
+      "description": "SiteWeb for seleing the coffee and tea and all stuff related to it",
+      "link": "View In Github",
+      "github": ""
+    },
+    {
+      "id": "3",
+      "src": "./img/project3.png",
+      "title": "Pro Market",
+      "description": "SiteWeb that Provide different services in social media environment",
+      "link": "View In Github",
+      "github": ""
+    }
+  ]
+}
