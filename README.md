@@ -1,0 +1,2 @@
+- start with installing npm bu the command npm install
+- you can start your site web by the command npm start
