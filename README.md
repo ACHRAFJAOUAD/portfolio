@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Noryu</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm JAWAD ACHRAF</h1></summary>
   </ul>
 </div>
 
@@ -30,7 +30,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,bash,graphql,powershell,vercel,git,bootstrap,c,discord,express,git,gitlab,docker,figma,ps,pr,github,html,css,js,jquery,linux,materialui,mongodb,mysql,nodejs,nextjs,postman,py,php,laravel,react,redux,tailwind,ts,vite,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,bash,graphql,powershell,vercel,git,bootstrap,c,discord,express,git,gitlab,docker,figma,ps,pr,github,html,css,js,jquery,linux,materialui,mongodb,mysql,nodejs,nextjs,postman,py,php,laravel,react,redux,tailwind,ts,vite, flutter,supabase,firebase,vscode&perline=14" />
   </a>
 </p>
 
